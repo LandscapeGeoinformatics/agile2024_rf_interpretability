@@ -1,0 +1,14 @@
+name: agile2024
+channels:
+    - conda-forge
+dependencies:
+    - jupyterlab
+    - pandas
+    - openpyxl
+    - geopandas
+    - seaborn
+    - matplotlib
+    - scikit-learn
+    - numpy
+    - joblib
+    - shap
