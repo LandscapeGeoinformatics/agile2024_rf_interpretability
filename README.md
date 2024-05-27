@@ -18,6 +18,8 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    <img align="left"  src="./image/image-20240527135319379.png" alt="opennotebook" style="zoom:50%;" />
 
+   
+
 3. Inside the open notebook dialog :
 
    -  Click on GitHub on the left panel
