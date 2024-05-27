@@ -12,11 +12,11 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
 1. open https://colab.research.google.com/ from your favorable browser, then you will be redirect to the colab environment provided by Google, please sign in if need.
 
-<img src="./image/image-20240527135055489.png" alt="Colab" style="zoom:50%;" />
+<img align="left" src="./image/image-20240527135055489.png" alt="Colab" width="800" height="400"   />
 
-2. From the Menu bar , click on File followed by open notebook
+2. From the Menu bar , click on File followed by open notebook.
 
-   <img align="left"  src="./image/image-20240527135319379.png" alt="opennotebook" style="zoom:50%;" />
+   <img align="left" src="./image/image-20240527135319379.png" alt="opennotebook" width="300" height="400"/>
 
    
 
@@ -32,7 +32,9 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    - Click on the notebook
 
-   <img align="left" src="./image/image-20240527143104135.png" alt="image-20240527143104135" style="zoom:50%;" />
+     
+
+   <img align="left" src="./image/image-20240527143104135.png" alt="image-20240527143104135"  width="800" height="600"/>
 
    
 
@@ -40,10 +42,10 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    It will make a copy of the notebook in your own google drive which you can access it later when need.
 
-   <img align="left" src="./image/image-20240527141722810.png" alt="image-20240527141722810" />
+   <img align="left" src="./image/image-20240527141722810.png" alt="image-20240527141722810"  width="1000" height="400"/>
 
    
 
 5. You can verify if the notebook is a copied version by the name, it should start with "Copy of"
 
-   <img align="left" src="./image/image-20240527142222018.png" alt="image-20240527142222018" />
+   <img align="left" src="./image/image-20240527142222018.png" alt="image-20240527142222018" width="1000" height="250" />
