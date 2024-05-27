@@ -1,0 +1,10 @@
+pandas
+geopandas
+seaborn
+matplotlib
+scikit-learn
+numpy
+joblib
+shap
+folium
+mapclassify
