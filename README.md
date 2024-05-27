@@ -68,7 +68,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    b. Click on Code , then Click on Download ZIP  (ex:  download to C:\Users\\<Profile name\> for window)
 
-   <img src="./image/agile2024_workshop_proposal_lgeoinfo_tartu.docx" alt="image-20240527152543498" width="800" heigh="600" />
+   <img src="./image/donwloadcode.png" alt="image-20240527152543498" width="800" heigh="600" />
 
    c. Unzip the downloaded file to any directory you prefer (ex: C:\Users\\<Profile name\>\Agile2024_RF for window))
 
