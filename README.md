@@ -8,16 +8,18 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 - Alexander Kmoch <a href="https://orcid.org/0000-0003-4386-4450"><img src="orcid_icon.png" width="12px" height="12px" /></a>
 - Evelyn Uuemaa <a href="https://orcid.org/0000-0002-0782-6740"><img src="orcid_icon.png" width="12px" height="12px" /></a>
 
-## How to access the Workshop notebook 
+
+
+## Access the Workshop notebook from Colab
 
 1. open https://colab.research.google.com/ from your favorable browser, then you will be redirect to the colab environment provided by Google, please sign in if need.
 
-<img  src="./image/image-20240527135055489.png" alt="Colab" width="800" height="400" />
+<img  src="./image/image-20240527135055489.png" alt="Colab" width="10000" height="400" />
 
 
 2. From the Menu bar , click on File followed by open notebook.
 
-   <img  src="./image/image-20240527135319379.png" alt="opennotebook" width="300" height="400"/>
+   <img  src="./image/image-20240527135319379.png" alt="opennotebook" width="350" height="400"/>
 
    
 
@@ -27,7 +29,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    - Copy and paste the following url into the Search notebooks text box.
 
-   ​   https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability
+      https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability
 
    - Then you will see the notebook  for this workshop listed under.
      Notebook Name : **(workshop_materials/colab_agile2024_rf_interpretability)**
@@ -36,7 +38,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
      
 
-   <img  src="./image/image-20240527143104135.png" alt="image-20240527143104135"  width="800" height="600"/>
+   <img  src="./image/image-20240527143104135.png" alt="image-20240527143104135"  width="600" height="500"/>
 
    
 
@@ -51,3 +53,53 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 5. You can verify if the notebook is a copied version by the name, it should start with "Copy of"
 
    <img src="./image/image-20240527142222018.png" alt="image-20240527142222018" width="1000" height="250" />
+
+
+
+## Access the notebook from local machine
+
+- Environment prerequisite
+  - conda : https://conda.io/projects/conda/en/latest/user-guide/install/index.html
+  - python3.12+ (it should be installed through conda as well)
+
+1. Clone the repository from LandscapGeoinformatics's Github 
+
+   a. Open the link https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability from browser
+
+   b. Click on Code , then Click on Download ZIP  (ex:  download to C:\Users\\<Profile name\> for window)
+
+   <img src="./image/agile2024_workshop_proposal_lgeoinfo_tartu.docx" alt="image-20240527152543498" width="800" heigh="600" />
+
+   c. Unzip the downloaded file to any directory you prefer (ex: C:\Users\\<Profile name\>\Agile2024_RF for window))
+
+   
+
+2. Open a command line terminal , then change the directory to the unzipped dir. 
+
+   ```bat
+   cd C:\Users\<Profile name>\Agile2024_RF
+   ```
+
+3. Then change the directory to workshop_material
+
+   ```batchcd workshop_material
+   cd workshop_material
+   ```
+
+4. Create a new virtual environment with library dependences from the requirement file with the following command :
+
+   ```bat
+   conda env create -n agile2024_RF -f conda_environment.yaml
+   ```
+
+5. After the environment is created , activate the environment by the following command:
+
+   ```bat
+   conda activate agile2024_RF
+   ```
+
+6. Start up jupyter-lab
+
+   ```bat
+   jupyter-lab
+   ```
