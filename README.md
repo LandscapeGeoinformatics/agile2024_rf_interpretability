@@ -44,7 +44,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
 4. **After the notebook is opened, Click on File , then by Save a copy in Drive** 
 
-   It will make a copy of the notebook in your own google drive which you can access it later when need.
+   It will make a copy of the notebook into your own google drive which you can access it later when need.
 
    <img  src="./image/image-20240527141722810.png" alt="image-20240527141722810"  width="1000" height="400"/>
 
