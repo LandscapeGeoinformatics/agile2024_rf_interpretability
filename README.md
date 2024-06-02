@@ -38,7 +38,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
      
 
-   <img  src="./image/image-20240527143104135.png" alt="image-20240527143104135"  width="600" height="500"/>
+   <img  src="./image/open_notebook.png" alt="open_notebook"  width="600" height="500"/>
 
    
 
