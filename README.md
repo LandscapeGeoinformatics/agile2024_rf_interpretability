@@ -34,7 +34,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
    - Then you will see the notebook  for this workshop listed under.
      
 
-   - Click on the notebook named **(workshop_materials/colab_agile2024_rf_interpretability)**
+   - Click on the notebook named **workshop_materials/colab_agile2024_rf_interpretability**
 
      
 
