@@ -13,8 +13,15 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 ## Access the Workshop notebook from Colab
 
 1. open https://colab.research.google.com/ from your favorable browser, then you will be redirect to the colab environment provided by Google, please sign in if need.
+   #### (Optional) Change display language of colab from non-English to English display 
+
+   If you find that your colab enviornment isn't display in English (ex. menu bar display) and you want to change it in order to follow the instructions below, you       can change the display language by clicking on the help menu, then there is a option to change the display language to English.
+
 
 <img  src="./image/image-20240527135055489.png" alt="Colab" width="10000" height="400" />
+
+
+
 
 
 2. From the Menu bar , click on File followed by open notebook.
@@ -53,7 +60,6 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 5. You can verify if the notebook is a copied version by the name, it should start with "Copy of"
 
    <img src="./image/image-20240527142222018.png" alt="image-20240527142222018" width="1000" height="250" />
-
 
 
 ## Access the notebook from local machine
