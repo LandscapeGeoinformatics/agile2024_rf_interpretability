@@ -19,7 +19,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
    #### (Optional) Change display language of colab from non-English to English display 
 
    If you find that your colab enviornment isn't display in English (ex. menu bar display) and you want to change it in order to follow the instructions below, you       can change the display language by clicking on the help menu, then there is a option to change the display language to English. The following screen shot shows an 
-   example in Estonia. 
+   example in Estonian language.
    
    <img src="https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability/assets/62494108/d39428f2-2ca4-408e-810b-66dffb3bb2e9" width="600" height="250">
 
