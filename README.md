@@ -1,5 +1,7 @@
 # agile2024_rf_interpretability
-Materials for the AGILE 2024 conference workshop **Spatial modelling and interpretability with Random Forest**.
+Materials for the AGILE 2024 conference workshop in Glasgow, UK **Spatial modelling and interpretability with Random Forest**.
+
+**Workshop time:** 6th of June, at 4pm to 6pm Room 101@SCW
 
 Contributions from the following authors from [Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/):
 - Marta Jemeljanova <a href="https://orcid.org/0000-0002-7063-2236"><img src="orcid_icon.png" width="12px" height="12px" /></a>
@@ -8,7 +10,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 - Alexander Kmoch <a href="https://orcid.org/0000-0003-4386-4450"><img src="orcid_icon.png" width="12px" height="12px" /></a>
 - Evelyn Uuemaa <a href="https://orcid.org/0000-0002-0782-6740"><img src="orcid_icon.png" width="12px" height="12px" /></a>
 
-In order to follow the workshop, you need Google account to use the Colab.
+To follow the workshop, you need **a Google account to use the Colab**.
 
 ## Access the Workshop notebook from Colab
 
@@ -18,8 +20,8 @@ In order to follow the workshop, you need Google account to use the Colab.
    
    #### (Optional) Change display language of Colab from non-English to English display 
 
-   If you find that your Colab environment isn't displayed in English (ex., menu bar display) and you want to change it in order to follow the instructions below, you can change the display language by clicking on the Help menu; then there is an option to change the display language to English. The following screenshot shows an 
-   example in the Estonian language.
+   If you find that your Colab environment isn't displayed in English (ex., menu bar display) and you want to change it to follow the instructions below, you can change the display language by clicking on the Help menu. There is an option to change the display language to English. The following screenshot shows an 
+   example in Estonian.
    
    <img src="https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability/assets/62494108/d39428f2-2ca4-408e-810b-66dffb3bb2e9" width="600" height="250">
 
