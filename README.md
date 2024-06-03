@@ -24,7 +24,7 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
    <img src="https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability/assets/62494108/d39428f2-2ca4-408e-810b-66dffb3bb2e9" width="600" height="250">
 
 
-2. From the Menu bar , click on File followed by open notebook.
+2. From the Menu bar , click on File > open notebook.
 
    <img  src="./image/image-20240527135319379.png" alt="opennotebook" width="350" height="400"/>
 
@@ -34,11 +34,11 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    -  Click on GitHub on the left panel
 
-   - Copy and paste the following url into the Search notebooks text box.
+   - Copy and paste the following url into the Search notebooks text box, follow by an enter.
 
       https://github.com/LandscapeGeoinformatics/agile2024_rf_interpretability
 
-   - Then you will see the notebook  for this workshop listed under.
+   - Then you will see the notebook for this workshop listed under.
      
 
    - Click on the notebook named **workshop_materials/colab_agile2024_rf_interpretability.ipynb**
@@ -47,9 +47,8 @@ Contributions from the following authors from [Landscape Geoinformatics Lab](htt
 
    <img  src="./image/open_notebook.png" alt="open_notebook"  width="600" height="500"/>
 
-   
 
-4. **After the notebook is opened, Click on File , then by Save a copy in Drive** 
+4. **(Important) After the notebook is opened, Click on File > Save a copy in Drive**
 
    It will make a copy of the notebook into your own google drive which you can access it later when need.
 
