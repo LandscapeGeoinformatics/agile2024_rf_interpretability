@@ -87,16 +87,16 @@ To follow the workshop, you need **a Google account to use the Colab**.
    cd C:\Users\<Profile name>\Agile2024_RF
    ```
 
-3. Then change the directory to workshop_material
+3. Then change the directory to workshop_materials
 
-   ```batchcd workshop_material
-   cd workshop_material
+   ```batchcd workshop_materials
+   cd workshop_materials
    ```
 
 4. Create a new virtual environment with library dependencies from the requirement file with the following command :
 
    ```bat
-   conda env create -n agile2024_RF -f conda_environment.yaml
+   conda env create -n agile2024_RF -f conda_environment.yml
    ```
 
 5. After the environment is created, activate the environment by the following command:
