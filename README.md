@@ -89,20 +89,23 @@ To follow the workshop, you need **a Google account to use the Colab**.
 
 3. Then change the directory to workshop_materials
 
-   ```batchcd workshop_materials
+   ```batch
    cd workshop_materials
    ```
 
 4. Create a new virtual environment with library dependencies from the requirement file with the following command :
 
    ```bat
-   conda env create -n agile2024_RF -f conda_environment.yml
+   :: The default environment name is agile2024, but if you want to change it to other's , pass additioanl param -n <favour_name>
+   conda env create -f conda_environment.yml
    ```
 
 5. After the environment is created, activate the environment by the following command:
 
    ```bat
-   conda activate agile2024_RF
+   conda activate agile2024
+   :: or
+   conda activate <favour_name>
    ```
 
 6. Start up jupyter-lab
